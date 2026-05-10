@@ -6,7 +6,7 @@ TOOLS:
 <p><li>passwords.py:</li></p>
 <p><b>Random names, <tab>      password: random passwords</b></p>
 <p>Landscape print screen of the video file:<p>
-<img src="./hacker-tools-illustration/passwords prscr landscape.png" width="800" alt="print screen" style="box-shadow: 5px 5px 10px rgba(0,0,0,0.5);"><p>
+<img src="./passwords-py/passwords prscr landscape.png" width="800" alt="print screen" style="box-shadow: 5px 5px 10px rgba(0,0,0,0.5);"><p>
 
 <p>
 link to videofile - comes later
