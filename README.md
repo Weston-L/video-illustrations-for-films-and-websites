@@ -1,2 +1,7 @@
-# video-illustrations-for-films-and-websites
-Short codes that can run in Terminal, and can be used as video assets in movies and websites
+This repository contains short code snippets that can be run in the Terminal as video illustrations for movies and websites, blogs, etc.
+--------------------
+passwords.py
+Random names password: random passwords
+
+
+-------------------------------------------
